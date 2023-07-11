@@ -3,3 +3,15 @@ p{
 background-color: aquamarine;
 
 }
+
+p::selection{
+
+    background-color: palevioletred;
+
+}
+
+a {
+
+color: dodgerblue;
+
+}
