@@ -1,4 +1,17 @@
+body{
 
+background-image: url(../pics/wall.jpg);
+background-size: cover;
+background-attachment: fixed;
+
+
+}
+
+.omar{
+    clip-path: circle(38% at 50% 50%);
+
+
+}
 
 p::selection{
 
